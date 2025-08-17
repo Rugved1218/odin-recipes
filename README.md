@@ -12,6 +12,9 @@ A website where users can get step by step recipes with the list of needed ingre
 - **Frontend:** HTML
 - **Tools:** VS Code
 
+## Link for live website:
+https://rugved1218.github.io/odin-recipes/
+
 ## Author:
 Rugved Bajare
 -[Github Profile](https://github.com/Rugved1218)
