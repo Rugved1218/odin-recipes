@@ -1,0 +1,70 @@
+body{
+    background-color:antiquewhite;
+    padding:16px;
+    color:hex(#222222);
+    font-family: Arial,Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+font-size: 44px;
+height: 50px;
+width: 510px;
+padding:10px;
+border:10px;
+margin:auto;
+font-weight:800;
+font-family: 'Times New Roman',Georgia, Times, serif;
+}
+
+h2{
+    font-size:28px;
+}
+
+p,
+li{
+    font-size:18px;
+    margin:8px;
+    line-height: 1.6;
+}
+
+h4{
+    font-size:20px;
+    font-weight:600;
+    margin:12px;
+}
+
+button{
+    display:inline-block;
+    background-color:navy;
+    color:white;
+    width:70px;
+    margin:20px auto;
+    padding:10px;
+}
+
+.home{
+    height: 55.2px;
+}
+
+a,a:visited a:hover a:active{
+    color:white;
+}
+
+.buttons{
+    text-align: center;
+}
+
+img{
+    width: 300px;
+    height: auto;
+    margin:20px auto;
+    text-align:center;
+    display:block;
+}
+
+.recipe a{
+    color:black;
+    font-size:22px;
+    margin:8px;
+    text-align:center;
+}
