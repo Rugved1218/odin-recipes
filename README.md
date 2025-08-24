@@ -4,12 +4,13 @@
 A website where users can get step by step recipes with the list of needed ingredients for thier favourite foods.
 
 ## Features
-- List of Fvourite recipes
+- List of Favourite recipes
 - Step by step recipe with the list of required ingredients
 - Links to go back to top of recipe page,home and next recipe
+- Designed by CSS
 
 ## Tech Stack:
-- **Frontend:** HTML
+- **Frontend:** HTML,CSS
 - **Tools:** VS Code
 
 ## Link for live website:
