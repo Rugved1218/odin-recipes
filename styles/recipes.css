@@ -34,17 +34,18 @@ h4{
 }
 
 button{
-    display:inline-block;
+    display:inline-flex;
     background-color:navy;
     color:white;
-    width:70px;
-    margin:20px auto;
-    padding:10px;
+    height:90px;
+    font-size:25px;
+    margin:20px;
+    padding:30px;
+    align-items: center;
+    width: 150px;
 }
 
-.home{
-    height: 55.2px;
-}
+
 
 a,a:visited a:hover a:active{
     color:white;
